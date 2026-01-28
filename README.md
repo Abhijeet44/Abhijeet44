@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work as fullstack developer<br>I am Working on .NET web api and microservices and <br>the languages i know are c# javascript typescript ReactJs
+.NET developer with experience building scalable APIs and microservices. Strong background in C#, ASP.NET Core, SQL Server, and cloud-native architectures. Focused on clean code, performance, and maintainable system design.
 
 
 ## 🌐 Socials:
